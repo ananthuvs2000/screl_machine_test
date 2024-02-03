@@ -1,0 +1,1 @@
+const apiEndpoint="https://jsonplaceholder.typicode.com/posts";
